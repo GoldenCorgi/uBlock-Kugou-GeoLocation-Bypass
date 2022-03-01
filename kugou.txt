@@ -1,0 +1,4 @@
+# Title: Super Idol 的笑容都没你的甜
+# Version: 02March2022
+# Description: This is a uBlock Origin list to bypass Kugou's geolocation checks, so you can listen to Kugou music globally
+https://mips.kugou.com/check/iscn
