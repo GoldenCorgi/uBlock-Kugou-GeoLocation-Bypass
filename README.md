@@ -103,11 +103,6 @@ No further actions are necessary. After adding a filter list from this repositor
 
 
 
-## Special Thanks
-#### For providing this amazing README.md
-- **MrBukLau on GitHub**
-    - [Filter-Lists](https://github.com/MrBukLau/filter-lists)
-
 ## License
 [MIT](https://github.com/uBlock-Kugou-GeoLocation-Bypass/filter-lists/blob/main/LICENSE)
 
@@ -143,3 +138,8 @@ Deny that request and here we are
 
 
 This means that Kugou Music actually sent over the mp3 files BEFORE checking for geolocation restrictions
+
+# Translation
+
+- [简体中文](README.zh-CN.md)
+
